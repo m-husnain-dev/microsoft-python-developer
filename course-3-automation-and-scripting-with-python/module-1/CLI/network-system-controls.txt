@@ -1,0 +1,19 @@
+# Display IP configuration
+ip a                                          # Linux
+ifconfig                                      # Mac
+ipconfig                                      # Windows
+
+# Test network connection
+ping google.com
+
+# Show running processes
+ps aux                                        # Linux / Mac
+tasklist                                      # Windows
+
+# Terminate a process by Process ID (PID)
+kill -9 1234                                  # Linux / Mac
+taskkill /PID 1234 /F                         # Windows
+
+# Clear terminal screen
+clear                                         # Linux / Mac
+cls                                           # Windows

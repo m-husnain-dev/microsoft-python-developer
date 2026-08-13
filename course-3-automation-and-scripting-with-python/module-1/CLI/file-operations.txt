@@ -1,0 +1,23 @@
+# Create an empty file
+touch file.txt                                # Linux  Mac
+type nul  file.txt                           # Windows CMD
+New-Item file.txt                             # Windows PowerShell
+
+# View contents of a file
+cat file.txt                                  # Linux  Mac  PowerShell
+type file.txt                                 # Windows CMD
+
+# Copy a file
+cp file.txt copy.txt                          # Linux  Mac
+copy file.txt copy.txt                        # Windows CMD
+Copy-Item file.txt copy.txt                   # Windows PowerShell
+
+# Move or rename a file
+mv old_name.txt new_name.txt                  # Linux  Mac
+move old_name.txt new_name.txt                # Windows CMD
+Move-Item old_name.txt new_name.txt           # Windows PowerShell
+
+# Delete a single file
+rm file.txt                                   # Linux  Mac
+del file.txt                                  # Windows CMD
+Remove-Item file.txt                          # Windows PowerShell

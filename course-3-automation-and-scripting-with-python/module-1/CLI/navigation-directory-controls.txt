@@ -1,0 +1,22 @@
+# Print current directory path
+pwd                   # Linux / Mac / PowerShell
+cd                    # Windows CMD
+
+# List all files and hidden items
+ls -la                # Linux / Mac / PowerShell
+dir                   # Windows CMD
+
+# Change directory
+cd /path/to/folder    # Linux / Mac
+cd C:\path\to\folder  # Windows
+
+# Go back one folder
+cd ..
+
+# Create a new directory
+mkdir new_folder
+
+# Delete a directory and all contents
+rm -rf folder_name                            # Linux / Mac
+rmdir /s /q folder_name                       # Windows CMD
+Remove-Item -Recurse -Force folder_name       # Windows PowerShell
