@@ -1,0 +1,20 @@
+{
+    "calculate_area": {
+        "prefix": "calc_area",
+        "body": [
+            "def calculate_area(length, width):",
+            "  \"\"\"Calculates the area of a rectangle.\"\"\"",
+            "  # Calculate the area",
+            "  area = length * width",
+            "  ",
+            "  # Output the area",
+            "  return area",
+            "",
+            "# Example usage",
+            "length = $1",
+            "width = $2",
+            "print(calculate_area(length, width))"
+        ],
+        "description": "Calculate the area of a rectangle"
+    }
+}

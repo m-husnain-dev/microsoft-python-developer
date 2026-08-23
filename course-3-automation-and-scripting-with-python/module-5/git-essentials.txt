@@ -1,0 +1,73 @@
+# ==========================================
+# 1. COLLABORATION COMMANDS (Team Work)
+# ==========================================
+
+# Remote repository 
+git clone <repository_url>
+
+# Remote server 
+git pull origin <branch_name>
+
+# Your local commits -> remote repository (GitHub) -> upload 
+git push origin <branch_name>
+
+# Remote repository updates check (without merge)
+git fetch
+
+# new branch making
+git branch <branch_name>
+
+# new branch making and switching 
+git checkout -b <branch_name>
+
+# other branch work merge into your current branch 
+git merge <branch_name>
+
+
+# ==========================================
+# 2. STASH COMMANDS (Adhoora Kaam Safe Rakhna)
+# ==========================================
+
+# Uncommitted changes  temporary hide / save 
+git stash
+
+# Stash save with message
+git stash save "your message"
+
+# all saved stashes list
+git stash list
+
+# Latest stashed changes revert and delete
+git stash pop
+
+# Stashed changes revert and save in list
+git stash apply
+
+# Specific stash delete
+git stash drop stash@{0}
+
+# all saved stashes clear/delete 
+git stash clear
+
+
+# ==========================================
+# 3. DAILY WORK COMMANDS (Local Tracking)
+# ==========================================
+
+# Current status check (files modified/staged)
+git status
+
+# Specific file add in staging area  
+git add <file_name>
+
+# all modified files stage 
+git add .
+
+# Staged changes commit (save) 
+git commit -m "aapka commit message"
+
+# History / past commits 
+git log
+
+# Lines modifications / changes check 
+git diff

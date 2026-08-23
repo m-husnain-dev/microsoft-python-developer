@@ -1,0 +1,9 @@
+{
+    "reverse-proxy": [
+        {
+            "entrypoint": "/serve/",
+            "port": 5500,
+            "launchPath": "/learn/baseball_stats.html"
+        }
+    ]
+}
