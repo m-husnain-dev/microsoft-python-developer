@@ -1,6 +1,5 @@
 # Course 1: Python Programming Fundamentals
 
-**Duration:** 22 hours
 
 ## What This Course Covers
 
@@ -13,10 +12,3 @@ Python Programming, Data Structures, Unit Testing, Debugging, Code Reusability, 
 ## Tools/Software
 
 Python, Jupyter Notebook, Git, GitHub
-
-## Modules
-
-- [x] Module 1 — Introduction to Python
-- [x] Module 2 — Python Basics (variables, conditionals, loops, lists)
-- [x] Module 3 — Functions and Modules (classes, scope, custom functions)
-- [x] Module 4 — Expanding your toolkit with modules and libraries
