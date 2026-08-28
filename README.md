@@ -43,6 +43,11 @@ Core programming concepts, data analysis, web development, automation, and advan
 
 ## Tools & Stack
 
-- Python
-- Jupyter Notebooks
-- Libraries covered across the courses: data analysis/visualization, automation, and web development tooling
+- **Language:** Python
+- **Data Analysis & Visualization:** pandas, Matplotlib, Plotly, NumPy
+- **Machine Learning basics:** scikit-learn
+- **Web Development:** Flask, Flask-SQLAlchemy, HTML, CSS, JavaScript, SQL, Vue.js
+- **Cloud:** Microsoft Azure (Azure SDK for Python, App Service deployment)
+- **Version Control & Collaboration:** Git, GitHub, GitHub Actions (CI/CD)
+- **Dev Environment:** Visual Studio Code, Jupyter Notebooks
+- **DevOps:** Agile methodologies, containerization concepts (Docker)
