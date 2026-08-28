@@ -1,6 +1,5 @@
 # Course 5: Advanced Python Development Techniques
 
-**Duration:** 22 hours
 
 ## What This Course Covers
 
