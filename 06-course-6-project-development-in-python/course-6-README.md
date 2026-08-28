@@ -1,6 +1,5 @@
 # Course 6: Project Development in Python
 
-**Duration:** 20 hours
 
 ## What This Course Covers
 
