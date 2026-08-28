@@ -1,6 +1,5 @@
 # Course 4: Web Development with Python
 
-**Duration:** 23 hours
 
 ## What This Course Covers
 
