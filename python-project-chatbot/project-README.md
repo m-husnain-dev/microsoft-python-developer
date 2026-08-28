@@ -1,4 +1,4 @@
-## Module 5 — Chatbot Development with Python
+## Chatbot Development with Python
 
 Part of **Course 6: Project Development in Python**.
 
