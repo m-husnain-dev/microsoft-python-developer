@@ -1,6 +1,5 @@
 # Course 2: Data Analysis and Visualization with Python
 
-**Duration:** 21 hours
 
 ## What This Course Covers
 

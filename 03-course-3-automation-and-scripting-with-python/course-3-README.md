@@ -1,6 +1,5 @@
 # Course 3: Automation and Scripting with Python
 
-**Duration:** 25 hours
 
 ## What This Course Covers
 
